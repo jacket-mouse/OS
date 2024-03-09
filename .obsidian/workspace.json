@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "c45037af1a56ada4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e63849e713fe2396",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33a164dfd25aad93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 - NJU/001 - 计算机系统基础/000 - 说明.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7f21ce3e53c59b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "60aea484e1681c63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58a3d2188056e325",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "375324630eae0e17",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "吾爱破解",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "007f011daa42c33e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4d6a9e95ec486d18",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e0c3a719310a159",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dae073d4bc510d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "001 - NJU/001 - 计算机系统基础/000 - 说明.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b553b3f9e5dd46b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "001 - NJU/001 - 计算机系统基础/000 - 说明.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2527538911b6fbf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "001 - NJU/001 - 计算机系统基础/000 - 说明.md"
+              }
+            }
+          },
+          {
+            "id": "77a654d0abd9a228",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d02e6643b7de02de",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "74a96bd52bf1b724",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91b248fe9cf6c68a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-day-planner:Timeline": false
+    }
+  },
+  "active": "58a3d2188056e325",
+  "lastOpenFiles": [
+    "001 - NJU/000 - 说明.md",
+    "001 - NJU/001 - 计算机系统基础/000 - 说明.md",
+    "001 - NJU/000 - 参考资料/002 - Operating Systems Three Easy Pieces/Operating Systems Three Easy Pieces.md",
+    "001 - NJU/000 - 参考资料/002 - Operating Systems Three Easy Pieces/Operating Systems Three Easy Pieces.pdf",
+    "100 - Windows/002 - 科普/002 - 注册表.md",
+    "100 - Windows/002 - 科普/001 - 频闪.md",
+    "100 - Windows/001 - 操作/002 - 删除文件.md",
+    "100 - Windows/002 - 科普",
+    "100 - Windows/001 - 操作",
+    "100 - Windows/001 - 操作/001 - C盘清理.md",
+    "101 - Linux/001 - Debian/001 - 安装Debian.md",
+    "101 - Linux/001 - Debian",
+    "101 - Linux",
+    "100 - Windows/Basic",
+    "100 - Windows",
+    "001 - NJU/000 - 参考资料/002 - Operating Systems Three Easy Pieces",
+    "001 - NJU/001 - 计算机系统基础",
+    "001 - NJU/000 - 参考资料",
+    "009 - Lab/实验报告-实验四（时序系统实验）.md",
+    "009 - Lab/实验报告-实验三（RAM拓展实验）.md",
+    "009 - Lab/实验报告-实验二（二进制补码加减运算器）.md",
+    "009 - Lab/实验报告-实验一（基本逻辑门测试实验）.md",
+    "007 - 控制单元的功能和设计/001 -微操作命令的分析.md",
+    "007 - 控制单元的功能和设计/002 - 控制单元的功能.md",
+    "005 - 指令系统/003 - 寻址方式.md",
+    "005 - 指令系统/004 - 指令格式举例.md",
+    "005 - 指令系统/005 - RISC技术.md",
+    "005 - 指令系统/002 - 操作数类型和操作类型.md",
+    "004 - 计算机的运算方式/004 - 浮点运算.md",
+    "004 - 计算机的运算方式/005 - 算数逻辑单元（ALU）.md",
+    "005 - 指令系统/000 - 复习.md",
+    "002 - 存储器/003 - Cache（缓存，高速缓冲存储器）.md",
+    "004 - 计算机的运算方式/001 - 原码、补码、反码和移码.md",
+    "004 - 计算机的运算方式/002 - 定点运算.md",
+    "004 - 计算机的运算方式/003 - 定点运算习题.md",
+    "Photo/20240102192924.png",
+    "Photo/20240102205929.png",
+    "Photo/20240102205911.png",
+    "Photo/20240102205855.png",
+    "Photo/20240102205842.png",
+    "Photo/20240102205821.png",
+    "Photo/20240102205753.png",
+    "Photo/20240102205726.png",
+    "Photo/20240102205706.png",
+    "Photo/20240102205326.png",
+    "未命名.canvas",
+    "002 - Computer/002 - Computer Organization/简答题.canvas",
+    "post/002 - Computer/002 - Computer Organization/简答题.canvas"
+  ]
+}

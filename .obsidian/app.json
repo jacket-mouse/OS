@@ -1,0 +1,16 @@
+{
+  "showLineNumber": true,
+  "promptDelete": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./",
+  "newFileLocation": "current",
+  "readableLineLength": false,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
