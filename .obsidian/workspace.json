@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 - NJU/001 - 计算机系统基础/000 - 说明.md",
+                "file": "100 - Windows/001 - 操作/001 - C盘清理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 - NJU/001 - 计算机系统基础/000 - 说明.md",
+                "file": "100 - Windows/001 - 操作/001 - C盘清理.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 - NJU/001 - 计算机系统基础/000 - 说明.md",
+                "file": "100 - Windows/001 - 操作/001 - C盘清理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 - NJU/001 - 计算机系统基础/000 - 说明.md"
+                "file": "100 - Windows/001 - 操作/001 - C盘清理.md"
               }
             }
           },
@@ -171,26 +171,28 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "58a3d2188056e325",
+  "active": "33a164dfd25aad93",
   "lastOpenFiles": [
-    "001 - NJU/000 - 说明.md",
+    "100 - Windows/001 - 操作/002 - 删除文件.md",
+    "100 - Windows/001 - 操作/001 - C盘清理.md",
+    "100 - Windows/001 - 操作/001 - WSL/001 - Something about WSL.md",
     "001 - NJU/001 - 计算机系统基础/000 - 说明.md",
+    "101 - Linux/001 - Debian/002 - Debian“改造”.md",
+    "100 - Windows/001 - 操作/001 - WSL",
+    "101 - Linux/001 - Debian/001 - 安装Debian.md",
+    "001 - NJU/000 - 说明.md",
     "001 - NJU/000 - 参考资料/002 - Operating Systems Three Easy Pieces/Operating Systems Three Easy Pieces.md",
     "001 - NJU/000 - 参考资料/002 - Operating Systems Three Easy Pieces/Operating Systems Three Easy Pieces.pdf",
     "100 - Windows/002 - 科普/002 - 注册表.md",
     "100 - Windows/002 - 科普/001 - 频闪.md",
-    "100 - Windows/001 - 操作/002 - 删除文件.md",
     "100 - Windows/002 - 科普",
     "100 - Windows/001 - 操作",
-    "100 - Windows/001 - 操作/001 - C盘清理.md",
-    "101 - Linux/001 - Debian/001 - 安装Debian.md",
     "101 - Linux/001 - Debian",
     "101 - Linux",
     "100 - Windows/Basic",
     "100 - Windows",
     "001 - NJU/000 - 参考资料/002 - Operating Systems Three Easy Pieces",
     "001 - NJU/001 - 计算机系统基础",
-    "001 - NJU/000 - 参考资料",
     "009 - Lab/实验报告-实验四（时序系统实验）.md",
     "009 - Lab/实验报告-实验三（RAM拓展实验）.md",
     "009 - Lab/实验报告-实验二（二进制补码加减运算器）.md",
@@ -207,7 +209,6 @@
     "002 - 存储器/003 - Cache（缓存，高速缓冲存储器）.md",
     "004 - 计算机的运算方式/001 - 原码、补码、反码和移码.md",
     "004 - 计算机的运算方式/002 - 定点运算.md",
-    "004 - 计算机的运算方式/003 - 定点运算习题.md",
     "Photo/20240102192924.png",
     "Photo/20240102205929.png",
     "Photo/20240102205911.png",
